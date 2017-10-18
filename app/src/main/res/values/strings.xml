@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinExceptions</string>
+    <string name="unlogged_exception">Unlogged Exception</string>
+    <string name="logged_exception">Logged Exception.</string>
+</resources>
